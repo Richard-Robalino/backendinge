@@ -1,0 +1,295 @@
+{
+  "tours": [
+    {
+      "id": "1",
+      "nombre": "Tour por las Iglesias",
+      "descripcion": "Explora las iglesias históricas más emblemáticas",
+      "tipo": "Exploración",
+      "ciudad": "Cuenca",
+      "fechaInicio": "10/04/2024",
+      "fechaFin": "12/04/2024",
+      "duracion": "2 días",
+      "maxParticipantes": 5,
+      "imagen": "https://i.pinimg.com/736x/c0/c9/f2/c0c9f2827d064ccf0849e9d624b01411.jpg",
+      "precio": 50
+    },
+    {
+      "id": "2",
+      "nombre": "Tour Quilotoa",
+      "descripcion": "Explora la maravillosa laguna del Quilotoa",
+      "tipo": "Volcán",
+      "ciudad": "Latacunga",
+      "fechaInicio": "10/04/2024",
+      "fechaFin": "12/04/2024",
+      "duracion": "2 días",
+      "maxParticipantes": 8,
+      "imagen": "https://i.ytimg.com/vi/OaOQ_uO2VNE/maxresdefault.jpg",
+      "precio": 50
+    },
+    {
+      "id": "0b187d5a-523a-4542-bdb9-04686346861f",
+      "nombre": "Tour al Quilotoa",
+      "descripcion": "Explora la Montaña más emblemática",
+      "tipo": "Exploración",
+      "ciudad": "Cotopaxi",
+      "fechaInicio": "23/11/2024",
+      "fechaFin": "23/11/2024",
+      "duracion": "1 días",
+      "maxParticipantes": 5,
+      "imagen": "https://i.pinimg.com/736x/c0/c9/f2/c0c9f2827d064ccf0849e9d624b01411.jpg",
+      "precio": 15
+    },
+    {
+      "id": "7a86580a-a5fc-43fb-b648-7535e2ded7a7",
+      "nombre": "Tour al Quilotoa"
+    },
+    {
+      "id": "e52705f8-43f7-4fb9-94ce-271947b91ebd",
+      "nombre": "Tour al Quilotoa"
+    },
+    {
+      "id": "48818cf9-81ea-40d6-9d44-b3093ba810a1",
+      "nombre": "Tour al Quilotoa"
+    },
+    {
+      "id": "b5c1db3b-ea4a-45a5-b9ec-145b5f26f616",
+      "nombre": "TourDemo",
+      "Price": "500"
+    },
+    {
+      "id": "0a3a05d7-e868-493b-805e-8075fc0019bb",
+      "nombre": "TourDemo",
+      "Price": "500"
+    },
+    {
+      "id": "6d12fcae-8323-49b8-860b-5edd26207c21",
+      "nombre": "TourDemo",
+      "Price": "500"
+    },
+    {
+      "id": "b42f8b67-15d9-4c03-af81-3a0f6f226738",
+      "nombre": "TourDemo",
+      "Price": "500"
+    },
+    {
+      "id": "dfc5a457-b312-47b6-b169-ff1fb559083e",
+      "nombre": "TourDemo",
+      "Price": "500"
+    },
+    {
+      "id": "d88ba292-84d3-4f7f-9c43-0d14cd7a320a",
+      "nombre": "TourDemo",
+      "Price": "500"
+    },
+    {
+      "id": "2c570ef3-79d5-4832-9fc0-6e0a2d87a260",
+      "nombre": "Byron",
+      "imagen": ""
+    },
+    {
+      "id": "be32a7ea-4f63-4899-a284-47ef76c432a9",
+      "nombre": "Byron",
+      "imagen": ""
+    },
+    {
+      "id": "f903a43c-ce1b-42c6-a0b9-3dfa8c80fe8f",
+      "nombre": "Byron",
+      "imagen": ""
+    },
+    {
+      "id": "dd5ebf75-c961-45b9-839e-75958896c4b1",
+      "nombre": "Byron",
+      "imagen": ""
+    },
+    {
+      "id": "0bd7ca86-9127-41ee-bd92-1e650c949a78",
+      "nombre": "Byron",
+      "imagen": ""
+    },
+    {
+      "id": "f7c6e485-4359-454d-8e0c-4a5999fd3fc2",
+      "nombre": "Byron",
+      "imagen": ""
+    },
+    {
+      "id": "ac4eb548-39df-4730-90ce-17c941a9bc4e",
+      "nombre": "TourDemo",
+      "Price": "500"
+    },
+    {
+      "id": "32d3ad19-9783-4f0b-a9b0-f71db7e7ec29",
+      "nombre": "TourDemo",
+      "Price": "500"
+    },
+    {
+      "id": "97f066ce-1a6d-4735-8a5d-1a41445a1fc7",
+      "nombre": "TourDemo",
+      "Price": "500"
+    },
+    {
+      "id": "89a0ac80-1064-4e92-8f00-755b0eb5dc60",
+      "nombre": "Byron",
+      "imagen": ""
+    },
+    {
+      "id": "c1519725-f10a-48b7-9bd4-528c80957167",
+      "nombre": "Byron",
+      "imagen": ""
+    },
+    {
+      "id": "e6900305-0745-4f01-b9f5-ad500a81071e",
+      "nombre": "Byron",
+      "imagen": ""
+    },
+    {
+      "id": "38a2c57d-36ca-4bc9-af1a-cc60d47f419b",
+      "nombre": "TourDemo",
+      "Price": "500"
+    },
+    {
+      "id": "b0b32f20-64e2-483a-bfe2-4b28fb6e3e45",
+      "hola": "hola",
+      "imagen": ""
+    },
+    {
+      "id": "eb9a7264-4251-487b-bfcf-d196b40e1541",
+      "nombre": "TourDemo",
+      "Price": "500"
+    },
+    {
+      "id": "d0258923-5831-442c-98be-cd7227aed5b3",
+      "nombre": "TourDemo",
+      "Price": "500"
+    },
+    {
+      "id": "160330e4-d908-4104-aac8-502566e3ceb5",
+      "hola": "hola",
+      "imagen": ""
+    },
+    {
+      "id": "aabbf09c-c578-4472-81d9-59582195e14d",
+      "hola": "hola",
+      "imagen": ""
+    },
+    {
+      "id": "372e73fd-723c-4748-9f90-bb3511c4c538",
+      "hola": "hola",
+      "imagen": ""
+    },
+    {
+      "id": "af30d145-1efa-4749-8e32-259f9d36787b",
+      "hola": "hola",
+      "imagen": ""
+    },
+    {
+      "id": "40460622-401c-4f93-8b1d-07d6d4c8f421",
+      "hola": "hola",
+      "imagen": ""
+    },
+    {
+      "id": "d0a4b27c-88aa-4e5e-933f-1c47ff6192a0",
+      "hola": "hola",
+      "imagen": ""
+    },
+    {
+      "id": "b6772ad8-0416-4f68-ab33-66c8247bc594",
+      "nombre": "TourDemo",
+      "Price": "500"
+    },
+    {
+      "id": "6776b85e-90d4-4642-840b-c65ad0929ff9",
+      "nombre": "byron",
+      "imagen": ""
+    },
+    {
+      "id": "893f0c58-9ffb-44ab-8f84-b6e38b2b110a",
+      "nombre": "TourDemo",
+      "Price": "500"
+    },
+    {
+      "id": "c28efb9a-bea9-462f-aa06-30b8ce2db4a5",
+      "nombre": "TourDemo",
+      "Price": "500"
+    },
+    {
+      "id": "a3b930b9-df5e-4677-99ea-0091fd69d39c",
+      "nombre": "TourDemo",
+      "Price": "500"
+    },
+    {
+      "id": "1cb0c3cb-af70-4bab-8f3a-088246056e71",
+      "nombre": "TourDemo",
+      "Price": "500"
+    },
+    {
+      "id": "3bd49abf-201c-4c61-ad1c-ca50ba5ed565",
+      "nombre": "TourDemo",
+      "Price": "500"
+    },
+    {
+      "id": "51749388-2797-4926-aac6-f2b6d56510a6",
+      "hola": "hola",
+      "imagen": ""
+    },
+    {
+      "id": "9a13cbf1-2fe9-4218-a75b-121a49644d6b",
+      "hola": "hola",
+      "imagen": ""
+    },
+    {
+      "id": "91401f12-2ef1-4ee9-a498-48feef614f0e",
+      "hola": "hola",
+      "imagen": ""
+    },
+    {
+      "id": "7923ebab-876f-438b-ba3e-a5df5dfa7ae6",
+      "hola": "hola",
+      "imagen": ""
+    },
+    {
+      "id": "6c38b108-29ee-4437-ac30-aedaec4f9bc0",
+      "hola": "hola",
+      "imagen": ""
+    },
+    {
+      "id": "409f6d0a-64e1-4a73-b2f9-e36b9a458537",
+      "hola": "hola",
+      "imagen": ""
+    },
+    {
+      "id": "c22a0f20-a214-4cb1-8a21-1aa13c3a9b68"
+    },
+    {
+      "id": "4be43dcd-9a28-4813-b81a-4fbca44fe3f2",
+      "nombre": "TourDemo",
+      "Price": "500"
+    },
+    {
+      "id": "5e698110-3ea5-4ca8-83e8-01c84bd36751"
+    },
+    {
+      "id": "91e32f59-4e4c-4653-8185-20ef49a24fc6",
+      "nombre": "Tour-Cotopaxi",
+      "price": "20",
+      "imagen": "https://res.cloudinary.com/dvsvco1kg/image/upload/v1732649051/tours/mhi4urmytu7ibbqg1uta.jpg",
+      "public_id": "tours/mhi4urmytu7ibbqg1uta"
+    }
+  ],
+  "users": [
+    {
+      "id": "7134d35e-bcc7-4169-a8db-de8d5d417385",
+      "password": "$2b$10$oe9uvzo1thwDyF0/aeKKS.5wD.Hm8ZEKO/xsAq7xOHX9DArJsmPqu",
+      "username": "Byron"
+    },
+    {
+      "id": "080c1dab-74ef-4c75-8a1b-dc0f032c3918",
+      "password": "$2b$10$22f0zYoOkLiNBmiaB9.qvuJLOKSptmrxuSRKBa3T1f79plWinoVCa",
+      "username": "Bryon"
+    },
+    {
+      "id": "3df6e57b-2475-4b39-86ff-9c54746f4f74",
+      "password": "$2b$10$ihLqqax8w7dC4QXbGqA0nu7koSmP2Fua.7JAn3gpproB/E3lEkedq",
+      "username": "Richard"
+    }
+  ]
+}
